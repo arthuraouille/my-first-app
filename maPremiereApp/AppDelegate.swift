@@ -3,7 +3,7 @@
 //  maPremiereApp
 //
 //  Created by Arthur Aouillé on 27/04/2016.
-//  Copyright © 2016 Arthur Aouillé. All rights reserved.
+//  Copyright © 2016 Arthur Aouillé, enfin on verra. All rights reserved.
 //
 
 import UIKit
