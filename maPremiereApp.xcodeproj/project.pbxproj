@@ -14,6 +14,7 @@
 		023661941CD1561D0082D01D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 023661921CD1561D0082D01D /* LaunchScreen.storyboard */; };
 		0236619F1CD1561E0082D01D /* maPremiereAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0236619E1CD1561E0082D01D /* maPremiereAppTests.swift */; };
 		023661AA1CD1561E0082D01D /* maPremiereAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023661A91CD1561E0082D01D /* maPremiereAppUITests.swift */; };
+		023661BA1CD172300082D01D /* IMG_0100.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 023661B91CD172300082D01D /* IMG_0100.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		023661A51CD1561E0082D01D /* maPremiereAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = maPremiereAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		023661A91CD1561E0082D01D /* maPremiereAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maPremiereAppUITests.swift; sourceTree = "<group>"; };
 		023661AB1CD1561E0082D01D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		023661B91CD172300082D01D /* IMG_0100.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_0100.jpg; path = "../../../Pictures/Temp Flickr/IMG_0100.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				023661901CD1561D0082D01D /* Assets.xcassets */,
 				023661921CD1561D0082D01D /* LaunchScreen.storyboard */,
 				023661951CD1561E0082D01D /* Info.plist */,
+				023661B91CD172300082D01D /* IMG_0100.jpg */,
 			);
 			path = maPremiereApp;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				023661941CD1561D0082D01D /* LaunchScreen.storyboard in Resources */,
+				023661BA1CD172300082D01D /* IMG_0100.jpg in Resources */,
 				023661911CD1561D0082D01D /* Assets.xcassets in Resources */,
 				0236618F1CD1561D0082D01D /* Main.storyboard in Resources */,
 			);
