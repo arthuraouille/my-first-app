@@ -10,4 +10,5 @@ normal text
 1 ordlist 1
 2 ordlist 2
 
-% is there a way to comment?
+<!-- is there a way to comment?
+-->
