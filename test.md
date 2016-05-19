@@ -1,4 +1,4 @@
-# is this a comment
+# pri heading
 ## sec heading
 ### ter heading
 
@@ -9,3 +9,5 @@ normal text
 
 1 ordlist 1
 2 ordlist 2
+
+% is there a way to comment?
